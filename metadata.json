@@ -1,0 +1,6 @@
+{
+  "name": "Sentinel Log Anomaly Agent",
+  "description": "An AI-powered log processing and anomaly detection suite. Uses a server-side Gemini agent for real-time root cause analysis and a model-quality monitor tracking drift and detection degradation. Complete with a Grafana-inspired live dashboard and real-time alerting interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
